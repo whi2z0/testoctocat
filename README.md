@@ -1,3 +1,2 @@
 # testoctocat
-test github repo creation and edit
-Need to create a new feature
+bug fix 34 test
